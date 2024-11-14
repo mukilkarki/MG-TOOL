@@ -102,7 +102,7 @@ else{
 <body>
   <div class="wrapper">
     <div class="title">
-      <h1>G4MKR5X53T</h1>
+      <h1>MG-TOOL</h1>
     </div>
     <form action="" class="form-signin" method="POST">
       <h2 class="form-signin-heading">Please login</h2>
