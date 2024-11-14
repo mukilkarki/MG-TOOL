@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>G4MKR5X53T</title>
+    <title>MG-TOOL</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css" rel="stylesheet">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
@@ -294,10 +294,10 @@
     <div class="main-content">
         <div id="content-area" class="glass-container">
             <div class="default-content">
-                <h1 class="glitch" data-text="HackNet">G4MKR5X53T</h1>
-                <pp>Welcome to the G4MKR5X53T  Next-Gen Social Hacking. </p> <p>  Select an operation from the sidebar to begin.</p>
+                <h1 class="glitch" data-text="HackNet">MG-TOOL</h1>
+                <pp>Welcome to the MG-TOOL  Next-Gen Social Hacking. </p> <p>  Select an operation from the sidebar to begin.</p>
                 <p><strong>Warning:</strong> Unauthorized access is prohibited. Use at your own risk.</p>
-                <p><strong>Developed by:</strong> GAMKERS </p>
+                <p><strong>Developed by:</strong> SILENT COBRA </p>
             </div>
         </div>
 
