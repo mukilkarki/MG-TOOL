@@ -1,5 +1,5 @@
 <h1 align="center">
-  G4MKR5X53T
+  MG-TOOL
 </h1>
 
 <h4 align="center">A Tool With Attractive Capabilities. </h4>
@@ -33,7 +33,7 @@
 
 ### Update Log:
 
-- Second (latest) Update on November 4th , 2022 .
+- Second (latest) Update on November 14th , 2025 .
 - The overall structure of the tool is programmed from the beginning and is available as a web panel (in previous versions, the tool was available in the command line).
 - Previous version's bugs fixed !
 - Auto-download Ngrok Added !
@@ -44,7 +44,7 @@
 - You can start and stop the listener anytime ! (At will)
 - Beautified user interface (NEW) !
 
-> We have deleted Ngrok in the new version of GAMKERSET and entrusted the user with running and sharing the localhost . So please note that GAMKERSET runs a localhost for you and you have to start the Ngrok on your intended port yourself .
+> We have deleted Ngrok in the new version of MG-TOOL and entrusted the user with running and sharing the localhost . So please note that MG-TOOL runs a localhost for you and you have to start the Ngrok on your intended port yourself .
 > <br>
 
 #### Attention! :
@@ -61,7 +61,7 @@
 
 ### Dependencies
 
-**`GAMKERSET`** requires following programs to run properly -
+**`MG-TOOL`** requires following programs to run properly -
 
 - `php`
 - `python3`
